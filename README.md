@@ -1,8 +1,8 @@
 <h1> Hi, I'm Mike! </h1>
 
 <p> I'm a CS student currently studying at Boston University. I've got previous first-hand experience in web development, but I find a lot of interest in math and CS theory. 
-Other than studying, I've worked front-end development at Nynth Labs, a digital marketing agency. I'm currently a teaching assistant for one of the introductory CS logic courses at BU.
-I'm very open to collaborating with anyone, so don't be afraid to say hi! </p>
+Other than studying, I've worked front-end development at Nynth Labs, a digital marketing agency. Right now, I'm a teaching assistant for the introductory CS discrete math course at BU.
+</p>
 
  <div>
     <h6>Technologies</h6>
